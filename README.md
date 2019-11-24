@@ -8,4 +8,4 @@ TO DO:
 3. Run 'composer install'.
 4. Run 'php artisan key:generate'.
 5. Run 'php artisan serve'.
-6. Run the app on your localhost.
+6. Open the app on your localhost.
