@@ -4,7 +4,7 @@ $(document).ready(function(){
         var c = $(this).attr('id').slice(3);
         $.ajax({
             type: "GET",
-            url: "http://localhost/Sajt/public/gallery/"+c,
+            url: baseUrl + "/gallery/" + c,
             success: function(data){
                 $('.content').html(data);
             }
