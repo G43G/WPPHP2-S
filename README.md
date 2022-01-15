@@ -1,5 +1,5 @@
 # WPPHP2-S
-App from course Web Programming - PHP2 in ICT 
+App from ICT Web Programming - PHP2 course
 
 TO DO:
 
